@@ -1,18 +1,18 @@
-{"ürünler":[
+{"urunler":[
 	{
-	"ürün_id":235244525,
-	"ürün_adi":"ekmek",
-	"ürün_tur":"gıda"
+	"urun_id":235244525,
+	"urun_adi":"ekmek",
+	"urun_tur":"gida"
 	},
 	{
-	"ürün_id":45289760,
-	"ürün_adi":"yumoş",
-	"ürün_tur":"temizlik"
+	"urun_id":45289760,
+	"urun_adi":"yumos",
+	"urun_tur":"temizlik"
 	},
 		{
-	"ürün_id":44525,
-	"ürün_adi":"çüklata",
-	"ürün_tur":"gıda"
+	"urun_id":44525,
+	"urun_adi":"cuklata",
+	"urun_tur":"gÄ±da"
 	}
 ]}
 
