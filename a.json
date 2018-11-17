@@ -1,19 +1,12 @@
-{"urunler":[
-	{
-	"urun_id":235244525,
-	"urun_adi":"ekmek",
-	"urun_tur":"gida"
+{
+	"ekmek" : {
+		"fiyatekmek":49,
+		"marka": "ekor"
 	},
-	{
-	"urun_id":45289760,
-	"urun_adi":"yumos",
-	"urun_tur":"temizlik"
-	},
-		{
-	"urun_id":44525,
-	"urun_adi":"cuklata",
-	"urun_tur":"gıda"
+	"su" : {
+		"sufiyat": 33,
+		"sumarka": "Hayat"
 	}
-]}
+}
 
 
